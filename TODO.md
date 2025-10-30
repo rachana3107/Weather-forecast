@@ -5,4 +5,6 @@
 - [x] Create script.js for geocoding city to lat/lon and fetching weather from Open-Meteo
 - [x] Test the app by opening index.html in browser
 - [x] Enhance styling with color grading and stunning visuals
-- [ ] Deploy to Git (initialize repo, commit, push to GitHub)
+- [x] Deploy to Git (initialize repo, commit, push to GitHub)
+- [x] Add README.md and notes for the code
+- [x] Deploy to CodeSandbox
